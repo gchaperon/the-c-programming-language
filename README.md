@@ -6,4 +6,10 @@ I skipped some, because I didn't want to spend too much time in a chapter and I 
 1-22
 1-23
 1-24
+
+4-06
+4-07
+4-08
+4-09
+4-10
 ```
