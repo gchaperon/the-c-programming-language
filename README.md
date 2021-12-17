@@ -14,4 +14,7 @@ I skipped some, because I didn't want to spend too much time in a chapter and I 
 4-10
 
 5-06
+5-11
+5-12
 ```
+

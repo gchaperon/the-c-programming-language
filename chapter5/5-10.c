@@ -4,7 +4,8 @@
 void push(double);
 double pop(void);
 
-/* reverse polish calculator, assumes the input is well formed */
+/* reverse polish calculator, assumes the input is well formed,
+ * be careful with asterisks and shell expansion */
 main(int argc, char *argv[])
 {
 	double op2;
